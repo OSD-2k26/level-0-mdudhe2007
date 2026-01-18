@@ -3,7 +3,7 @@
 Before the journey begins,  
 prove you can leave a mark.
 
-Change **anything** in this scroll.  
+Change **anything** in this scroll.Holla Amigos : :>  
 Even a single dot is enough.
 
 Seal it with a commit,  
